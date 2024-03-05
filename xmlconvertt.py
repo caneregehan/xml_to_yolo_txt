@@ -2,10 +2,10 @@ import os
 import xml.etree.ElementTree as ET
 
 # XML dosyalarının bulunduğu dizin
-xml_dir = "C:\\Users\\caner\\OneDrive\\Desktop\\xmller"
+xml_dir = "your_path"
 
 # Çıktı dosyalarının bulunacağı dizin
-output_dir = "C:\\Users\\caner\\OneDrive\\Desktop\\çiktilar"
+output_dir = "output_path"
 
 # Sınıf etiketleri
 class_labels = {"RBC": 0, "WBC": 1, "Platelet": 2, "Thalasemia": 3}
